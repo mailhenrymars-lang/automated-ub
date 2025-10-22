@@ -1,7 +1,0 @@
-pyrogram
-# tgcrypto is optional but recommended for better performance
-# On Windows, you might need to install Microsoft C++ Build Tools to compile it
-# If you have trouble installing it, you can skip it - the bot will work without it
-# but with reduced performance
-# tgcrypto
-python-dotenv
